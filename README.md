@@ -1,2 +1,2 @@
-# Class-137
-Planet-Api-app
+# Planet-Api-App
+Get planets details
